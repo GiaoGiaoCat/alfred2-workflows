@@ -7,6 +7,19 @@ alfred2-workflows
 
 ![](screenshots/likeread.png)
 
+## Rails Tips
+
+功能：学习 rails 的小花招
+用法：唤醒 alfred 输入 railstips 回车
+数据地址：https://github.com/wjp2013/railstips 欢迎贡献内容
+
+![](screenshots/railstips1.png)
+![](screenshots/railstips2.png)
+
+---
+
+下面两个 workflow 可以单独安装
+
 ## ruby-chian.org 的新贴列表
 
 ![](screenshots/rubychina.png)
