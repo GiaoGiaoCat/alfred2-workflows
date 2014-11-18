@@ -3,9 +3,12 @@ alfred2-workflows
 ## 我爱看新闻
 
 功能：阅读下面那些列表中网站的更新帖子
-用法：唤醒 alfred 输入 read 
+用法：唤醒 alfred 输入 wakxw 或者直接按 option + r
 
-![](screenshots/likeread.png)
+上面这些你都可以自己重新定义成喜欢的快捷键
+
+![](screenshots/read1.png)
+![](screenshots/read2.png)
 
 ## Rails Tips
 
