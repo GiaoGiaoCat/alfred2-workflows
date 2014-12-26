@@ -5,7 +5,19 @@ alfred2-workflows
 功能：阅读下面那些列表中网站的更新帖子
 用法：唤醒 alfred 输入 wakxw 或者直接按 option + r
 
-上面这些你都可以自己重新定义成喜欢的快捷键
+上面这些你都可以自己重新定义成喜欢的快捷键，目前包括的新闻源有
+
+* Ruby-China
+* V2EX
+* SegmentFault
+* StartUp News
+* 极客公园
+* 知乎日报
+* 36氪
+* 虎嗅网
+* 头条
+* 煎蛋
+* 36氪 - NEXT
 
 ![](screenshots/read1.png)
 ![](screenshots/read2.png)
