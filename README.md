@@ -1,3 +1,6 @@
+作者改用 Reeder 订阅 RSS，所以此 repo 已经废弃。
+
+
 alfred2-workflows
 =================
 ## 我爱看新闻
